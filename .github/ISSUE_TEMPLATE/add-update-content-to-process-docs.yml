@@ -6,8 +6,8 @@ body:
   - type: dropdown
     id: process_doc
     attributes:
-      label: "Which process document do you want to update? (If this is a new document, select '<new document>')"
-      description: "Select the program management process document you want to add content to. If this is a new process doc, choose '<new document>'."
+      label: "Which process document do you want to update? (If this is a new document, select '' )"
+      description: "Select the program management process document you want to add content to. If this is a new process doc, choose ''."
       options:
         - octoacme-project-management-overview.md
         - octoacme-project-initiation.md
@@ -17,7 +17,7 @@ body:
         - octoacme-release-and-deployment.md
         - octoacme-retrospective-and-continuous-improvement.md
         - octoacme-roles-and-personas.md
-        - <new document>
+        - 
     validations:
       required: true
 

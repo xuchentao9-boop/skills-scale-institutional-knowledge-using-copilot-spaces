@@ -164,4 +164,3 @@ These additional personas clarify operational responsibilities and cross-team ha
 - Faster handoffs and fewer missed steps (e.g., telemetry instrumentation, security checks, UX sign-off)
 - Better alignment on success metrics and observability, enabling data-informed decisions
 - Easier onboarding: new team members and stakeholders can quickly identify the right contacts for specific concerns
-
